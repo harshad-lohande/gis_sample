@@ -1,0 +1,24 @@
+create conda environment for python 3
+
+https://github.com/darribas/contextily
+https://gist.github.com/chryss/0484d9e2a3ce4fc868c4
+https://github.com/geopandas/geopandas/blob/master/examples/plotting_basemap_background.py
+http://geopandas.org/data_structures.html
+http://geopandas.org/reference/geopandas.datasets.get_path.html#geopandas.datasets.get_path
+http://geopandas.org/gallery/plotting_basemap_background.html
+https://automating-gis-processes.github.io/2016/Lesson2-geopandas-basics.html
+
+https://medium.com/@mauridb/how-to-check-your-anaconda-version-c092400c9978
+
+https://stackoverflow.com/questions/37673073/plot-google-maps-data-as-a-picture-without-generating-an-html-file
+https://github.com/vgm64/gmplot
+https://plot.ly/python/maps/
+https://stackoverflow.com/questions/40142959/add-text-to-scatter-point-using-python-gmplot
+
+
+C:\Users\LohanDH1\Downloads\basemap-master\lib\mpl_toolkits\basemap\data -- copied basemap-data-hires files from here to
+C:\Users\LohanDH1\AppData\Local\Continuum\anaconda3\Library\share\basemap
+
+https://medium.com/@mauridb/gwq-gr
+
+MapBox168fDe1
