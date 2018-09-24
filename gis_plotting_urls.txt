@@ -15,6 +15,10 @@ https://github.com/vgm64/gmplot
 https://plot.ly/python/maps/
 https://stackoverflow.com/questions/40142959/add-text-to-scatter-point-using-python-gmplot
 
+https://stackoverflow.com/questions/7490491/capture-embedded-google-map-image-with-python-without-using-a-browser/50536888#50536888
+https://stackoverflow.com/questions/7490491/capture-embedded-google-map-image-with-python-without-using-a-browser
+https://github.com/vgm64/gmplot/blob/master/gmplot/gmplot.py
+
 
 C:\Users\LohanDH1\Downloads\basemap-master\lib\mpl_toolkits\basemap\data -- copied basemap-data-hires files from here to
 C:\Users\LohanDH1\AppData\Local\Continuum\anaconda3\Library\share\basemap
